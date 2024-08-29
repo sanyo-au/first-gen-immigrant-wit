@@ -1,4 +1,4 @@
-# first-gen-immigrant-wit
+# First Gen Immigrant Women in Tech
 Resources for First Gen Immigrant WIT to thrive in Tech
 
 ## Join our Whatsapp community 
